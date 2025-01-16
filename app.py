@@ -4,10 +4,10 @@ from flask import Flask, render_template, request
 app = Flask(__name__)
 
 # Load the trained model and vectorizer
-with open('model.pkl', 'rb') as model_file:
+with open('model.pkl', 'rb') as model:
     model = pickle.load(model)
 
-with open('vectorizer.pkl', 'rb') as vectorizer_file:
+with open('vectorizer.pkl', 'rb') as vectorizer:
     vectorizer = pickle.load(vectorizer)
 
 # Home route to display the form
