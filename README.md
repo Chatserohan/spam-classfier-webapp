@@ -130,19 +130,3 @@ Email: rohancrchatse@gmail.com
 GitHub: [@chatserohan](https://github.com/Chatserohan)  
 LinkedIn: [Rohan Chatse](https://www.linkedin.com/in/rohan-chatse-a662a01b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
----
-
-### Key Sections of the README:
-
-1. Introduction: A brief explanation of the project and its purpose.
-2. Tech Stack: List of technologies used in the project.
-3. Installation: Steps for setting up the project on your local machine.
-4. Usage: Instructions on how to use the web app, including running the app locally and interacting with the app.
-5. Project Structure: A breakdown of the folder structure for easy navigation.
-6. Contributing: How others can contribute to the project if desired.
-7. License: License for the project (you can change it if needed).
-8. Author Info: Your details for contact and attribution.
-
-### Customization:
-- Update the GitHub and LinkedIn links with your actual profiles.
-- If you have additional screenshots, add them to a `screenshots/` directory and reference them in the README.
